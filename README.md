@@ -3,9 +3,6 @@
 > **FFmpeg-powered JSON-to-MP4 builder**  
 > 给一份规范 JSON，一键输出带字幕、旁白、Avatar 叠加的成片。
 
-[![CI](https://github.com/<your-org>/assemble-video/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-org>/assemble-video/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 ---
 
 ## ✨ 特性
@@ -18,9 +15,9 @@
 ## 🚀 快速开始
 ```bash
 # 安装
-git clone https://github.com/<your-org>/assemble-video.git
+git clone https://github.com/Joir-Jio/json2video-ffmpeg.git
 cd assemble-video
-pip install -r requirements.txt   # 只依赖 requests
+pip install -r requirements.txt 
 
 # 运行
-python assemble_video.py examples/sample_spec.json demo.mp4
+python assemble_video.py spec.json final.mp4
