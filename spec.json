@@ -1,0 +1,129 @@
+{
+    "output": {
+        "resolution": [
+            1920,
+            1080
+        ],
+        "fps": 30
+    },
+    "videos": [
+        {
+            "file": "https://videos.pexels.com/video-files/8968930/8968930-uhd_2732_1440_24fps.mp4",
+            "start": 0,
+            "end": 5.52
+        },
+        {
+            "file": "https://videos.pexels.com/video-files/2981524/2981524-hd_1920_1080_24fps.mp4",
+            "start": 5.52,
+            "end": 14.04
+        },
+        {
+            "file": "https://videos.pexels.com/video-files/2677752/2677752-hd_1280_720_30fps.mp4",
+            "start": 14.04,
+            "end": 22.92
+        }
+    ],
+    "audios": [
+        {
+            "file": "https://storage.googleapis.com/hyperhusk01-audio-result/audio/2ab6d5d6-c025-498f-9f6a-1290f0d9ae50.mp3",
+            "start": 0
+        }
+    ],
+    "subtitles": [
+        {
+          "start": 0,
+          "end": 0.14,
+          "text": " Adding"
+        },
+        {
+          "start": 0.14,
+          "end": 0.3,
+          "text": " to"
+        },
+        {
+          "start": 0.38,
+          "end": 0.54,
+          "text": " Gill's"
+        },
+        {
+          "start": 0.54,
+          "end": 0.86,
+          "text": " challenge,"
+        },
+        {
+          "start": 1.72,
+          "end": 1.88,
+          "text": " India"
+        },
+        {
+          "start": 1.88,
+          "end": 2.36,
+          "text": " haven't"
+        },
+        {
+          "start": 2.36,
+          "end": 2.5,
+          "text": " won"
+        },
+        {
+          "start": 2.5,
+          "end": 2.66,
+          "text": " a"
+        },
+        {
+          "start": 2.66,
+          "end": 2.86,
+          "text": " test"
+        },
+        {
+          "start": 2.86,
+          "end": 3.1,
+          "text": " series"
+        },
+        {
+          "start": 3.1,
+          "end": 3.38,
+          "text": " in"
+        },
+        {
+          "start": 3.38,
+          "end": 3.64,
+          "text": " England"
+        },
+        {
+          "start": 3.64,
+          "end": 4.08,
+          "text": " since"
+        },
+        {
+          "start": 4.08,
+          "end": 4.76,
+          "text": " 2007."
+        },
+        {
+            "start": 5.52,
+            "end": 13.36,
+            "text": " His appointment followed intense deliberations between chief selector Ajit Agarkar, coach Gautam Gambhir, and back-channel talks with other contenders."
+        },
+        {
+            "start": 14.04,
+            "end": 22.92,
+            "text": "Though Bumrah seemed the natural choice after serving as vice captain in Australia, concerns over his ability to shoulder the workload of a five-test series tipped the scales in Gill's favor."
+        }
+
+    ],
+    "avatars": [
+        {
+            "file": "https://sieve-prod-us-central1-persistent-bucket.storage.googleapis.com/a02fad0a-c91e-4d67-b489-5986b6c50b3b/f8ea061f-6efd-451f-bb55-66d700f5eee9/c44a572f-ba00-4c6c-aa82-463825f617d7/tmpc4l9n837.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=abhi-admin%40sieve-grapefruit.iam.gserviceaccount.com%2F20250527%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250527T064913Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&x-goog-signature=76ee9e5193931e1234d6d195705f666fffec5603aaf62a912d7bb7777815a47efb28ec83d4f5a5c5e5c76d8923a8ffc53a4e89b381dd37d9f414e499d8097cfa0dabeff916228e76e23afbb5f69309d2765b628a6a773242c71a4859a0a587560c3c38c734ff64bb34096f39772d530a9dfc068a132a8a22d090c98bd6271e74e14992adab1efb952ea8ffc863c4b14261357db7a09e3176b79e58f747f5a657657c72c7cbb392c42b82dd30cfd1de8ed51d3c473eb6c15dd338b49b4865a3b21ea2ae0bfeb286b71eea56adcc19b6dd2fb4c555844f3cb6f300ea9e209bf9d6f46ff471ae49239c769c323db9e0d3b30b8c64fdb492fc35b97571115dbf5f8b",
+            "start": 0,
+            "position": [
+                0,
+                0
+            ],
+            "size": [
+                0.5,
+                0.5
+            ]
+        }
+    ]
+}
